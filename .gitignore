@@ -1,0 +1,10 @@
+venv/
+model.pth
+input/
+output/
+brush/
+picture/
+train/
+__pycache__/
+_inference/
+run/
